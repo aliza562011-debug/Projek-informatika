@@ -9,5 +9,8 @@ li {
     padding-right: 4px solid gray;
 }
 
-body {background-color: aqua;
+body {background-color: yellow;
      }
+
+img {width:200px;
+    }
